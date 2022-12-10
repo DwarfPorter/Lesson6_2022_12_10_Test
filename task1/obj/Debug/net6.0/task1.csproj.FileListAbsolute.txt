@@ -1,0 +1,15 @@
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2022-11-20\Lesson6\task1\bin\Debug\net6.0\task1.exe
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2022-11-20\Lesson6\task1\bin\Debug\net6.0\task1.deps.json
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2022-11-20\Lesson6\task1\bin\Debug\net6.0\task1.runtimeconfig.json
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2022-11-20\Lesson6\task1\bin\Debug\net6.0\task1.dll
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2022-11-20\Lesson6\task1\bin\Debug\net6.0\task1.pdb
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2022-11-20\Lesson6\task1\obj\Debug\net6.0\task1.csproj.AssemblyReference.cache
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2022-11-20\Lesson6\task1\obj\Debug\net6.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2022-11-20\Lesson6\task1\obj\Debug\net6.0\task1.AssemblyInfoInputs.cache
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2022-11-20\Lesson6\task1\obj\Debug\net6.0\task1.AssemblyInfo.cs
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2022-11-20\Lesson6\task1\obj\Debug\net6.0\task1.csproj.CoreCompileInputs.cache
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2022-11-20\Lesson6\task1\obj\Debug\net6.0\task1.dll
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2022-11-20\Lesson6\task1\obj\Debug\net6.0\refint\task1.dll
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2022-11-20\Lesson6\task1\obj\Debug\net6.0\task1.pdb
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2022-11-20\Lesson6\task1\obj\Debug\net6.0\task1.genruntimeconfig.cache
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2022-11-20\Lesson6\task1\obj\Debug\net6.0\ref\task1.dll
